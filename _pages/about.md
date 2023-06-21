@@ -23,8 +23,8 @@ My research interest includes data center network, high-performance NIC. And rec
 
 
 # 🔥 News
-- *2023.06*: &nbsp;🎉🎉 Our paper has been accepted by SIGCOMM'23<a href='https://conferences.sigcomm.org/sigcomm/2023/'>. 
-- *2023.06*: &nbsp;🎉🎉 Our paper has been accepted by APNet'23<a href='https://conferences.sigcomm.org/events/apnet2023/index.html'>. 
+- *2023.06*: &nbsp;🎉🎉 Our paper has been accepted by <a href='https://conferences.sigcomm.org/sigcomm/2023/'>SIGCOMM'23</a>. 
+- *2023.06*: &nbsp;🎉🎉 Our paper has been accepted by <a href='https://conferences.sigcomm.org/events/apnet2023/index.html'>APNet'23</a>. 
 
 # 📝 Publications 
 
