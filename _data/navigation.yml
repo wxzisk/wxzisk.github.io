@@ -15,8 +15,8 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Invited Talks"
+  - title: "Tech Blog"
     url: "/#-invited-talks"
 
-  - title: "Internships"
-    url: "/#-internships"
+  # - title: "Internships"
+  #   url: "/#-internships"

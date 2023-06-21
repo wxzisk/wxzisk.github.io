@@ -71,7 +71,7 @@ blocking impact of large messages in the same RDMA connection. Our experiments s
 - *2019.09 - 2022.06*, Master degree, Hunan University.
 - *2015.09 - 2019.06*, Bachelor degree, Hunan University. 
 
-# 💬 Tech Bolg
+# 💬 Tech Blog
 - [Some blogs posted on Chinese technology forums](https://blog.csdn.net/hb_wxz?type=blog)
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
