@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Here is Xizheng Wang's homepage. I'm a Ph.D student in Department of Computer Science and Technology, Tsinghua University, supervised by Prof. <a href='https://nasp.cs.tsinghua.edu.cn/lidan.html'>Dan Li</a>. Before I started my PhD, I received my undergraduate degree and master's degree from Hunan University under the supervision of Professor <a href='http://grzy.hnu.edu.cn/site/index/chenguo'> Chen Guo</a>.
+Here is Xizheng Wang's homepage. I'm a Ph.D student in Department of Computer Science and Technology, Tsinghua University, supervised by Prof. <a href='https://nasp.cs.tsinghua.edu.cn/lidan.html'>Dan Li</a>. Before I started my PhD, I received my undergraduate degree and master's degree from Hunan University under the supervision of Professor <a href='http://grzy.hnu.edu.cn/site/index/chenguo'>Guo Chen</a>.
 
 My research interest includes data center network, high-performance NIC. And recently, I have embarked on exploring AI for network.
 
