@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Here is Xizheng Wang's homepage. I'm a Ph.D student in Department of Computer Science and Technology, Tsinghua University, supervised by Prof. <a href='https://nasp.cs.tsinghua.edu.cn/lidan.html'>Dan Li</a>. Before I started my PhD, I received my undergraduate degree and master's degree from Hunan University under the supervision of Professor <a href='http://grzy.hnu.edu.cn/site/index/chenguo'> Chen Guo </a>.
+Here is Xizheng Wang's homepage. I'm a Ph.D student in Department of Computer Science and Technology, Tsinghua University, supervised by Prof. <a href='https://nasp.cs.tsinghua.edu.cn/lidan.html'>Dan Li</a>. Before I started my PhD, I received my undergraduate degree and master's degree from Hunan University under the supervision of Professor <a href='http://grzy.hnu.edu.cn/site/index/chenguo'> Chen Guo</a>.
 
 My research interest includes data center network, high-performance NIC. And recently, I have embarked on exploring AI for network.
 
@@ -37,6 +37,7 @@ My research interest includes data center network, high-performance NIC. And rec
 
 - We propose StaR (Stateless RDMA), which solves the scalability problem of RDMA by transferring states to the other communication end. Leveraging the asymmetric communication pattern in data center applications, StaR lets the communication end with low concurrency save states for the other end with high concurrency, thus making the RNIC on the bottleneck side to be stateless. We have implemented StaR on an FPGA board with 10Gbps network port and evaluated its performance on a testbed
 with 9 machines all equipped with StaR NICs. The experimental results show that in high concurrency scenarios, the throughput of StaR can reach up to 4.13x and 1.35x of the original RNIC and the latest software-based solution, respectively.
+
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
