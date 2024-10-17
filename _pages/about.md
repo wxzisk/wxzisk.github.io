@@ -31,24 +31,19 @@ My research interest includes data center network, high-performance NIC. And rec
 
 <div class='paper-box-text' markdown="1">
 
-[StaR: Breaking the Scalability Limit for RDMA](https://ieeexplore.ieee.org/document/9651935). **Xizheng Wang**, Guo Chen*, Xijin Yin, Huichen Dai, Bojie Li, Binzhang Fu, Kun Tan
-
-
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+[DONS: Fast and Affordable Discrete Event Network Simulation with Automatic Parallelization (SIGCOMM'23)](https://dl.acm.org/doi/pdf/10.1145/3603269.3604844). Kaihui Gao, Li Chen, Dan Li, Vincent Liu, **Xizheng Wang**, Ran Zhang, Lu Lu
 
 </div>
 
+<div class='paper-box-text' markdown="1">
 
+[StaR: Breaking the Scalability Limit for RDMA (ICNP'21)](https://ieeexplore.ieee.org/document/9651935). **Xizheng Wang**, Guo Chen*, Xijin Yin, Huichen Dai, Bojie Li, Binzhang Fu, Kun Tan
 
+</div>
 
 <div class='paper-box-text' markdown="1">
 
-[sRDMA: A General and Low-Overhead RDMA Scheduler for RDMA](https://conferences.sigcomm.org/events/apnet2023/papers/sec1-srdma.pdf). **Xizheng Wang**, Shuai Wang*, Dan Li
-
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-
+[sRDMA: A General and Low-Overhead RDMA Scheduler for RDMA (APNet'23)](https://conferences.sigcomm.org/events/apnet2023/papers/sec1-srdma.pdf). **Xizheng Wang**, Shuai Wang*, Dan Li
 
 </div>
 
