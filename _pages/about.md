@@ -23,11 +23,24 @@ My research interest includes data center network, high-performance NIC. And rec
 
 
 # 🔥 News
+- *2025.07*: &nbsp;🎉🎉 Our paper has been accepted by <a href='https://ieeeicnp2025.pages.dev/'>ICNP'25</a>. 
 - *2024.07*: &nbsp;🎉🎉 Our paper has been accepted by <a href='https://www.usenix.org/conference/nsdi25'>NSDI'25</a>. 
 - *2023.06*: &nbsp;🎉🎉 Our paper has been accepted by <a href='https://conferences.sigcomm.org/sigcomm/2023/'>SIGCOMM'23</a>. 
  
 
 # 📝 Publications 
+
+<div class='paper-box-text' markdown="1">
+
+[SimAI: Unifying Architecture Design and Performance Tunning for Large-ScaleLarge Language Model Training with Scalability and Precision.. (NSDI'25)](https://www.usenix.org/system/files/nsdi25-wang-xizheng-simai.pdf). **Xizheng Wang**, Qingxu Li, Yichi Xu, Gang Lu, Dan Li, Li Chen, etc..
+
+</div>
+
+<div class='paper-box-text' markdown="1">
+
+[Resolving Packets from Counters: Enabling Multi-scale Network Traffic Super Resolution via Composable Large Traffic Model. (NSDI'25)](https://www.usenix.org/system/files/nsdi25-wang-xizheng-resolving.pdf). **Xizheng Wang**, Libin Liu, Li Chen, Dan Li, Yukai Miao, Yu Bai.
+
+</div>
 
 <div class='paper-box-text' markdown="1">
 
