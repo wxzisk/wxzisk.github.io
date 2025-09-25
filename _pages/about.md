@@ -23,7 +23,7 @@ My research interest includes data center network, high-performance NIC. And rec
 
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉🎉 Our paper has been accepted by <a href='https://sites.google.com/view/ieee-acm-ton'>TON'25</a>. 
+- *2025.09*: &nbsp;🎉🎉 Our paper has been accepted by <a href='https://sites.google.com/view/ieee-acm-ton'>TON</a>. 
 - *2025.09*: &nbsp;🎉🎉 Our paper has been accepted by <a href='https://neurips.cc/'>NIPS'25</a>. 
 - *2025.07*: &nbsp;🎉🎉 Our paper has been accepted by <a href='https://ieeeicnp2025.pages.dev/'>ICNP'25</a>. 
 - *2024.07*: &nbsp;🎉🎉 Our paper has been accepted by <a href='https://www.usenix.org/conference/nsdi25'>NSDI'25</a>. 
