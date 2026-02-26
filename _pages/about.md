@@ -34,7 +34,7 @@ My research interest includes data center network, high-performance NIC. And rec
 
 <div class='paper-box-text' markdown="1">
 
-[SimAI: Unifying Architecture Design and Performance Tunning for Large-ScaleLarge Language Model Training with Scalability and Precision.. (NSDI'25)](https://www.usenix.org/system/files/nsdi25-wang-xizheng-simai.pdf). **Xizheng Wang**, Qingxu Li, Yichi Xu, Gang Lu, Dan Li, Li Chen, etc..
+[SimAI: Unifying Architecture Design and Performance Tunning for Large-ScaleLarge Language Model Training with Scalability and Precision. (NSDI'25)](https://www.usenix.org/system/files/nsdi25-wang-xizheng-simai.pdf). **Xizheng Wang**, Qingxu Li, Yichi Xu, Gang Lu, Dan Li, Li Chen, et al.
 
 </div>
 
