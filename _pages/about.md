@@ -52,7 +52,24 @@ My research interest includes data center network, high-performance NIC. And rec
 
 <div class='paper-box-text' markdown="1">
 
+[Transcending Cost-Quality Tradeoff in Agent Serving via Session-Awareness (NeurIPS'25)](https://neurips.cc/virtual/2025/loc/mexico-city/poster/117996). Yanyu Ren, Li Chen, Dan Li, **Xizheng Wang**, Zhiyuan Wu, Yukai Miao, Yu Bai
+
+</div>
+
+<div class='paper-box-text' markdown="1">
+
+[Advancing RDMA Scalability With High Performance (ToN,2025)](https://ieeexplore.ieee.org/document/11205311). Xijin Yin, Guo Chen, **Xizheng Wang**, Bin Wang, Huichen Dai, Bojie Li, Binzhang Fu, Kun Tan
+</div>
+
+<div class='paper-box-text' markdown="1">
+
 [StaR: Breaking the Scalability Limit for RDMA (ICNP'21)](https://ieeexplore.ieee.org/document/9651935). **Xizheng Wang**, Guo Chen*, Xijin Yin, Huichen Dai, Bojie Li, Binzhang Fu, Kun Tan
+
+</div>
+
+<div class='paper-box-text' markdown="1">
+
+[Towards Automatic Network Diagram Comprehension (ICNP'25)](https://ieeexplore.ieee.org/document/11192381). Yanyu Ren, Yukai Miao, Li Chen, Dan Li, **Xizheng Wang**, Yu Bai, Zhiyuan Wu, Fei Long
 
 </div>
 
