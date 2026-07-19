@@ -17,10 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Here is Xizheng Wang's homepage. I'm a Ph.D student in Department of Computer Science and Technology, Tsinghua University and Zhongguancun Laboratory, supervised by Prof. <a href='https://nasp.cs.tsinghua.edu.cn/lidan.html'>Dan Li</a> and Dr. <a href='https://drchen.li/'>Li Chen</a>(Associate Researcher). Before I started my PhD, I received my undergraduate degree and master's degree from Hunan University under the supervision of Professor <a href='http://grzy.hnu.edu.cn/site/index/chenguo'>Guo Chen</a>.
+Welcome! I'm currently an Assistant Researcher in Zhongguancun Laboratory, working closely with Prof. <a href='https://nasp.cs.tsinghua.edu.cn/lidan.html'>Dan Li</a> and Dr. <a href='https://drchen.li/'>Li Chen</a>(Associate Researcher). Before that, I received my Ph.D. degree in Computer Science from <a href='https://www.tsinghua.edu.cn/en'>Tsinghua University</a> in 2026 and M.Sc. from Hunan University in 2022.
 
-My research interest includes data center network, high-performance NIC. And recently, I have embarked on exploring AI for network.
-
+My research interest focuses on high-performance CCL and AI for Network.
 
 # 🔥 News
 - *2025.09*: &nbsp;🎉🎉 Our paper has been accepted by <a href='https://sites.google.com/view/ieee-acm-ton'>TON</a>. 
@@ -83,7 +82,7 @@ My research interest includes data center network, high-performance NIC. And rec
 - *2019.06* Outstanding gradute, Hunan University. 
 
 # 📖 Educations
-- *2022.09 - now*, Ph.D candidate, Tsinghua University. 
+- *2022.09 - 2026.06*, Ph.D degree, Tsinghua University. 
 - *2019.09 - 2022.06*, Master degree, Hunan University.
 - *2015.09 - 2019.06*, Bachelor degree, Hunan University. 
 
