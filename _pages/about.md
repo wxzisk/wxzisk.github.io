@@ -17,15 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome! I'm currently an Assistant Researcher in Zhongguancun Laboratory, working closely with Prof. <a href='https://nasp.cs.tsinghua.edu.cn/lidan.html'>Dan Li</a> and Dr. <a href='https://drchen.li/'>Li Chen</a>(Associate Researcher). Before that, I received my Ph.D. degree in Computer Science from <a href='https://www.tsinghua.edu.cn/en'>Tsinghua University</a> in 2026 and M.Sc. from Hunan University in 2022.
+Hi! Here is Xizheng Wang. I'm currently an Assistant Researcher in Zhongguancun Laboratory, working closely with Prof. <a href='https://nasp.cs.tsinghua.edu.cn/lidan.html'>Dan Li</a> and Dr. <a href='https://drchen.li/'>Li Chen</a>(Associate Researcher). Before that, I received my Ph.D. degree in Computer Science from <a href='https://www.tsinghua.edu.cn/en'>Tsinghua University</a> in 2026 and M.Sc. degree from <a href='https://www-en.hnu.edu.cn'>Hunan University</a> in 2022.
 
-My research interest focuses on high-performance CCL and AI for Network.
+My research interest focuses on large-scale AI infrastructure (e.g., high-performance CCL), and AI for Network.
 
 # 🔥 News
 - *2025.09*: &nbsp;🎉🎉 Our paper has been accepted by <a href='https://sites.google.com/view/ieee-acm-ton'>TON</a>. 
-- *2025.09*: &nbsp;🎉🎉 Our paper has been accepted by <a href='https://neurips.cc/'>NIPS'25</a>. 
-- *2025.07*: &nbsp;🎉🎉 Our paper has been accepted by <a href='https://ieeeicnp2025.pages.dev/'>ICNP'25</a>. 
-- *2024.07*: &nbsp;🎉🎉 Our paper has been accepted by <a href='https://www.usenix.org/conference/nsdi25'>NSDI'25</a>. 
+- *2025.09*: &nbsp;🎉🎉 Our paper has been accepted by <a href='https://neurips.cc/Conferences/2025'>NeurIPS 25</a>. 
+- *2025.07*: &nbsp;🎉🎉 Our paper has been accepted by <a href='https://ieeeicnp2025.pages.dev/'>ICNP 25</a>. 
+- *2024.07*: &nbsp;🎉🎉 Our paper has been accepted by <a href='https://www.usenix.org/conference/nsdi25'>NSDI 25</a>. 
 
  
 
@@ -79,11 +79,13 @@ My research interest focuses on high-performance CCL and AI for Network.
 </div>
 
 # 🎖 Honors and Awards
-- *2019.06* Outstanding gradute, Hunan University. 
+- *2026.06* Outstanding graduate, CST Department, Tsinghua University.
+- *2025.12* National Scholarship, MoE, China.
+- *2019.06* Outstanding graduate, Hunan University.
 
 # 📖 Educations
-- *2022.09 - 2026.06*, Ph.D degree, Tsinghua University. 
-- *2019.09 - 2022.06*, Master degree, Hunan University.
+- *2022.09 - 2026.06*, Ph.D. degree, Tsinghua University. Supervised by Prof. Dan Li.
+- *2019.09 - 2022.06*, Master degree, Hunan University. Supervised by Prof. Guo Chen.
 - *2015.09 - 2019.06*, Bachelor degree, Hunan University. 
 
 # 💬 Tech Blog
