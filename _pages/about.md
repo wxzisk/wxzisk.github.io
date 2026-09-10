@@ -17,16 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Here is Xizheng Wang's homepage. I'm a Ph.D student in Department of Computer Science and Technology, Tsinghua University and Zhongguancun Laboratory, supervised by Prof. <a href='https://nasp.cs.tsinghua.edu.cn/lidan.html'>Dan Li</a> and Dr. <a href='https://drchen.li/'>Li Chen</a>(Associate Researcher). Before I started my PhD, I received my undergraduate degree and master's degree from Hunan University under the supervision of Professor <a href='http://grzy.hnu.edu.cn/site/index/chenguo'>Guo Chen</a>.
+Hi! Here is Xizheng Wang. I'm currently an Assistant Researcher in Zhongguancun Laboratory, working closely with Prof. <a href='https://nasp.cs.tsinghua.edu.cn/lidan.html'>Dan Li</a> and Dr. <a href='https://drchen.li/'>Li Chen</a>(Associate Researcher). Before that, I received my Ph.D. degree in Computer Science from <a href='https://www.tsinghua.edu.cn/en'>Tsinghua University</a> in 2026 and M.Sc. degree from <a href='https://www-en.hnu.edu.cn'>Hunan University</a> in 2022.
 
-My research interest includes data center network, high-performance NIC. And recently, I have embarked on exploring AI for network.
-
+My research interest focuses on large-scale AI infrastructure (e.g., high-performance CCL), and AI for Network.
 
 # 🔥 News
 - *2025.09*: &nbsp;🎉🎉 Our paper has been accepted by <a href='https://sites.google.com/view/ieee-acm-ton'>TON</a>. 
-- *2025.09*: &nbsp;🎉🎉 Our paper has been accepted by <a href='https://neurips.cc/'>NIPS'25</a>. 
-- *2025.07*: &nbsp;🎉🎉 Our paper has been accepted by <a href='https://ieeeicnp2025.pages.dev/'>ICNP'25</a>. 
-- *2024.07*: &nbsp;🎉🎉 Our paper has been accepted by <a href='https://www.usenix.org/conference/nsdi25'>NSDI'25</a>. 
+- *2025.09*: &nbsp;🎉🎉 Our paper has been accepted by <a href='https://neurips.cc/Conferences/2025'>NeurIPS 25</a>. 
+- *2025.07*: &nbsp;🎉🎉 Our paper has been accepted by <a href='https://ieeeicnp2025.pages.dev/'>ICNP 25</a>. 
+- *2024.07*: &nbsp;🎉🎉 Our paper has been accepted by <a href='https://www.usenix.org/conference/nsdi25'>NSDI 25</a>. 
 
  
 
@@ -52,7 +51,24 @@ My research interest includes data center network, high-performance NIC. And rec
 
 <div class='paper-box-text' markdown="1">
 
+[Transcending Cost-Quality Tradeoff in Agent Serving via Session-Awareness (NeurIPS'25)](https://neurips.cc/virtual/2025/loc/mexico-city/poster/117996). Yanyu Ren, Li Chen, Dan Li, **Xizheng Wang**, Zhiyuan Wu, Yukai Miao, Yu Bai
+
+</div>
+
+<div class='paper-box-text' markdown="1">
+
+[Advancing RDMA Scalability With High Performance (ToN,2025)](https://ieeexplore.ieee.org/document/11205311). Xijin Yin, Guo Chen, **Xizheng Wang**, Bin Wang, Huichen Dai, Bojie Li, Binzhang Fu, Kun Tan
+</div>
+
+<div class='paper-box-text' markdown="1">
+
 [StaR: Breaking the Scalability Limit for RDMA (ICNP'21)](https://ieeexplore.ieee.org/document/9651935). **Xizheng Wang**, Guo Chen*, Xijin Yin, Huichen Dai, Bojie Li, Binzhang Fu, Kun Tan
+
+</div>
+
+<div class='paper-box-text' markdown="1">
+
+[Towards Automatic Network Diagram Comprehension (ICNP'25)](https://ieeexplore.ieee.org/document/11192381). Yanyu Ren, Yukai Miao, Li Chen, Dan Li, **Xizheng Wang**, Yu Bai, Zhiyuan Wu, Fei Long
 
 </div>
 
@@ -63,11 +79,13 @@ My research interest includes data center network, high-performance NIC. And rec
 </div>
 
 # 🎖 Honors and Awards
-- *2019.06* Outstanding gradute, Hunan University. 
+- *2026.06* Outstanding graduate, CST Department, Tsinghua University.
+- *2025.12* National Scholarship, MoE, China.
+- *2019.06* Outstanding graduate, Hunan University.
 
 # 📖 Educations
-- *2022.09 - now*, Ph.D candidate, Tsinghua University. 
-- *2019.09 - 2022.06*, Master degree, Hunan University.
+- *2022.09 - 2026.06*, Ph.D. degree, Tsinghua University. Supervised by Prof. Dan Li.
+- *2019.09 - 2022.06*, Master degree, Hunan University. Supervised by Prof. Guo Chen.
 - *2015.09 - 2019.06*, Bachelor degree, Hunan University. 
 
 # 💬 Tech Blog
